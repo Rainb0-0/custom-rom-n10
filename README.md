@@ -40,4 +40,4 @@ Download the desired recovery/rom recovery. execute `adb reboot bootloader`. Do 
 
 ## **Flashing the ROM**
 
-In the recovery navigate to apply update and choose sideloading. Then on you PC do `adb sideload [/path/to/rom/file]`. And wait for it to finish. If it gets stuck on 46% don't worry it's ok. press reboot on your phone and Boom! enjoy the new ROM.
+In the recovery navigate to apply update and choose sideloading. Then on you PC do `adb sideload [/path/to/rom/file]`. And wait for it to finish. If it gets stuck on 47% don't worry it's ok. press reboot on your phone and Boom! enjoy the new ROM.
